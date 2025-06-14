@@ -1,3 +1,4 @@
 # Probabilistic Roadmap
 
-Código para el análisis del algoritmo PRM* en 2D, que es un algoritmo de planificación de movimientos originalmente basado en muestreo aleatorio, y las posibles ventajas al sustituir el muestreo aleatorio por un método determinista que minimiza la dispersión. 
+- Implementación de los algoritmos PRM y PRM* con muestreo aleatorio y muestreo de baja dispersión (muestras generadas con base en las secuencias de Halton y de HAmmersley)
+- Gráficas comparativas análisis del costo (longitud) de los caminos encontrados a partir de cada método de muestreo.
